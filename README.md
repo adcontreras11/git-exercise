@@ -1,3 +1,2 @@
 # git-exercise
-for coding class
-orale assignment
+run it again
